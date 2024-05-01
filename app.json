@@ -1,4 +1,7 @@
 {
   "name": "wuapp",
-  "displayName": "wuapp"
+  "displayName": "wuapp",
+  "plugins": [
+    "expo-router"
+  ]
 }

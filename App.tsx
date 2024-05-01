@@ -16,6 +16,8 @@ import {
   useColorScheme,
   View,
 } from 'react-native';
+import Constants from 'expo-constants';
+console.log(Constants.systemFonts);
 
 import {
   Colors,
